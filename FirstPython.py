@@ -1,2 +1,4 @@
-print("""Hello Sila \n
-I am 27 years old""")
+x = input("Input your name :")
+y = input("Input your age :")
+print(f"""Hello {x} \n
+I am {y} years old""")
